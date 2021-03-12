@@ -2,7 +2,9 @@
 ---
 fpjson is the unit implements JSON support for Free Pascal. But it has a bug for processing "\u" characters in JSON String.
 
-This is a demo project to show the bug. It uses fpjson and other two open-source pascal JSON parsers ([LkJson](https://sourceforge.net/projects/lkjson/) and [JsonTools](https://www.getlazarus.org/json/)) to parse a simple JSON string.
+This is a demo ([Lazarus](https://www.lazarus-ide.org/)) project to show the bug. The project is built with Lazarus 2.0.12 with Free Pascal 3.2.0.
+
+It uses fpjson and other two open-source pascal JSON parsers ([LkJson](https://sourceforge.net/projects/lkjson/) and [JsonTools](https://www.getlazarus.org/json/)) to parse a simple JSON string.
 
     uses fpjson, LkJSON, jsontools;
     
