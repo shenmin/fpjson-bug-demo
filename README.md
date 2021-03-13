@@ -38,4 +38,4 @@ P.S.
 
 The LkJSON unit also has some bugs. Here is the version I modified, since the original version has not been updated for more than 10 years.
 
-[A bug when parsing \\"\\"](https://github.com/sysrpl/JsonTools/issues/11) was also found in the JsonTools unit. And it is fixed by [@damoasda](https://github.com/damoasda/JsonTools/commit/cb047060060d00c8f8c233c399357122ec1c642f). I applied the fixed version of JsonTools here.
+[A bug when parsing \\"\\"](https://github.com/sysrpl/JsonTools/issues/11) was also found in the JsonTools unit. And it was fixed by [@damoasda](https://github.com/damoasda/JsonTools/commit/cb047060060d00c8f8c233c399357122ec1c642f). I applied the fixed version of JsonTools here.
